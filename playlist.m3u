@@ -1,259 +1,389 @@
 #EXTM3U
-#EXTINF:0,VIP Megahit HD (Astra 4.8e)
+#EXTINF:0,VIP Megahit HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/Gs0UuD31rIhspQlZXfurzw/1591580709/tv186/5edd27a5c762d9.95338773/tv-400.m3u8
-#EXTINF:0,VIP Premiere HD (Astra 4.8e)
+#EXTINF:0,VIP Premiere HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/ElJDhwkbqM8G10GcX4Q-yQ/1591588684/tv187/5edd46cc6750c1.09851691/tv-800.m3u8
-#EXTINF:0,VIP Comedy HD (Astra 4.8e)
+#EXTINF:0,VIP Comedy HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/on6MwQ38uqBRI9m37didMg/1591580974/tv244/5edd28ae161c38.89838669/tv-400.m3u8
-#EXTINF:0,Promo (Eutelsat 9e)
+#EXTINF:0,Promo (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/L0XPUBMTo9PgmNhjUQvryA/1591581019/tv217/5edd28db8cf138.80805033/tv.m3u8
-#EXTINF:0,Discovery Channel (Astra 4.8e)
+#EXTINF:0,Discovery Channel (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/buQ-egdz_h5bltiiE_MsWg/1591581049/tv174/5edd28f9683386.82116966/tv-800.m3u8
-#EXTINF:0,Animal Planet (Astra 4.8e)
+#EXTINF:0,Animal Planet (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/jY-9QgCeZRTd2eUQOOC6dA/1591581093/tv176/5edd2925387c56.53735811/tv-800.m3u8
-#EXTINF:0,Eurosport 1 (Astra 4.8e)
+#EXTINF:0,Eurosport 1 (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/r0yEVyrCn5YBd0ecUmiieg/1591581137/tv173/5edd2951be86e6.40256714/tv-800.m3u8
-#EXTINF:0,TV1000 (Astra 4.8e)
+#EXTINF:0,TV1000 (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/lrpG5pww7nv0piu1nid1Rg/1591581173/tv242/5edd2975ba69d2.46449765/tv-800.m3u8
-#EXTINF:0,Discovery Showcase HD (Astra 4.8e)
+#EXTINF:0,Discovery Showcase HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/QviClqr-wgb037LnqXExEA/1591581195/tv172/5edd298b1559d9.69278469/tv-800.m3u8
-#EXTINF:0,TLC (Astra 4.8e)
+#EXTINF:0,TLC (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/VQxkcjTLjHk6KOPmK6LMGg/1591581233/tv175/5edd29b166fb28.46210333/tv-800.m3u8
-#EXTINF:0,Discovery Science HD (Astra 4.8e)
+#EXTINF:0,Discovery Science HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/vttEH9FOu2ETPH6qhkuS4g/1591581254/tv32/5edd29c6b5cd55.40714250/tv-800.m3u8
-#EXTINF:0,Investigation Discovery HD (Astra 4.8e)
+#EXTINF:0,Investigation Discovery HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/0XMx_WCKaaM5pQB9HHfQOw/1591581300/tv118/5edd29f49dfe26.90859272/tv-800.m3u8
-#EXTINF:0,TV1000 Action (Astra 4.8e)
+#EXTINF:0,TV1000 Action (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/9Dps7A1iNv8kGAS49hQrBg/1591581332/tv241/5edd2a1461d5f4.18470117/tv-800.m3u8
-#EXTINF:0,Epic Drama HD (Eutelsat 9e)
+#EXTINF:0,Epic Drama HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/8sj5Gi2Aoye-bifWFJbWcg/1591581355/tv138/5edd2a2b498d92.12793840/tv-400.m3u8
-#EXTINF:0,TV1000 World Kino (Eutelsat 9e)
+#EXTINF:0,TV1000 World Kino (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/AecH8aVtxaDsekc6UhEiEQ/1591581388/tv243/5edd2a4c622762.63805514/tv-800.m3u8
-#EXTINF:0,Viasat Nature/History HD (Eutelsat 9e)
+#EXTINF:0,Viasat Nature/History HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/mYt5-7-KWaGYI_TkgnDMbw/1591581413/tv240/5edd2a65921e88.10956614/tv-800.m3u8
-#EXTINF:0,Viasat Sport HD (Eutelsat 9e)
+#EXTINF:0,Viasat Sport HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int04.divan.tv:8081/secure/3I4NEPX01axotHY1eNu35A/1591581438/tv167/5edd2a7eb380a9.95360367/tv-800.m3u8
-#EXTINF:0,Viasat Explore (Eutelsat 9e)
+#EXTINF:0,Viasat Explore (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/soohGohV7PiaxmJSongjAg/1591581451/tv235/5edd2a8ba40133.89093921/tv-800.m3u8
-#EXTINF:0,Viasat Nature (Eutelsat 9e)
+#EXTINF:0,Viasat Nature (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/QhH319lmn_RlTqsHRNqzhA/1591581527/tv238/5edd2ad7048042.24753541/tv-800.m3u8
-#EXTINF:0,Viasat History (Eutelsat 9e)
+#EXTINF:0,Viasat History (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/c4OWewP-fAXVIurAuFst1Q/1591581552/tv236/5edd2af0cb1536.88461151/tv-800.m3u8
-#EXTINF:0,1+1 HD (Astra 4.8e)
+#EXTINF:0,1+1 HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/hbT_TSWh9ChGrqZkjjfp6w/1591581570/tv2/5edd2b02b73464.96939636/tv-800.m3u8
-#EXTINF:0,2+2 HD (Astra 4.8e)
+#EXTINF:0,2+2 HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/hXaWhM5fzuM34tHr8RrxSg/1591581584/tv3/5edd2b100affb1.85596369/tv-800.m3u8
-#EXTINF:0,TET HD (Astra 4.8e)
+#EXTINF:0,TET HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int10.divan.tv:8081/secure/UQv8BMU8ZX6dzl9gi8raIQ/1591581604/tv88/5edd2b24eb7ff9.59254681/tv-800.m3u8
-#EXTINF:0,CTB HD (Amos 4w)
+#EXTINF:0,CTB HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://int04.divan.tv:8081/secure/93dSFe-bwIFcqWhHc3i6Xw/1591581623/tv10/5edd2b379caf51.08858473/tv-800.m3u8
-#EXTINF:0,Novy Channel HD (Amos 4w)
+#EXTINF:0,Novy Channel HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://int04.divan.tv:8081/secure/-laghBw08CJqciSvLTn1qQ/1591581650/tv11/5edd2b52ae05a1.91334481/tv-800.m3u8
-#EXTINF:0,UKRAINA HD (Astra 4.8e)
+#EXTINF:0,UKRAINA HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/Qr_T1BLM_rRRHhNLeiozyQ/1591581679/tv263/5edd2b6fcf7110.89642381/tv-800.m3u8
-#EXTINF:0,Setanta Sport HD (Eutelsat 9e)
+#EXTINF:0,Setanta Sport HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/chEp3vM7Xei7v-2poDE3KQ/1591581702/tv67/5edd2b86275b40.86789666/tv-800.m3u8
-#EXTINF:0,Football 3 HD (Eutelsat 9e)
+#EXTINF:0,Football 3 HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/2CrGZxFAd8T3A9Hqdfvabw/1591581728/tv74/5edd2ba0056c65.55847949/tv.m3u8
-#EXTINF:0,Setanta Sport Plus HD (Eutelsat 9e)
+#EXTINF:0,Setanta Sport Plus HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/FLBgSklx-eWlvSBUj7fx9g/1591581778/tv280/5edd2bd29b1b21.77886428/tv.m3u8
-#EXTINF:0,ICTV HD (Amos 4w)
+#EXTINF:0,ICTV HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/_ggDI3yVAK5mLXRFG6qZqQ/1591581799/tv6/5edd2be79a3337.50338247/tv-800.m3u8
-#EXTINF:0,Inter (Astra 4.8e)
+#EXTINF:0,Inter (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/i0_KfwNDSAqaKmfYE-ke5Q/1591581823/tv92/5edd2bff0c8140.95742961/tv-800.m3u8
-#EXTINF:0,History HD (Eutelsat 9e)
+#EXTINF:0,History HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/erekcul4xod3Wch7OLOZyg/1591581855/tv106/5edd2c1f2d9117.46999035/tv-800.m3u8
-#EXTINF:0, H2 HD (Eutelsat 9e)
+#EXTINF:0, H2 HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://j2.divan.tv:8081/secure/qVoDy6BaGU-5VguKGuNtTQ/1591581885/tv258/5edd2c3d539472.67564606/tv-800.m3u8
-#EXTINF:0,Travel Channel (Eutelsat 9e)
+#EXTINF:0,Travel Channel (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/44OssZQZA_-eFVcLajwqGA/1591586812/tv79/5edd3f7c458347.33164837/tv-800.m3u8
-#EXTINF:0,Fine Living (Eutelsat 9e)
+#EXTINF:0,Fine Living (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int04.divan.tv:8081/secure/JmAbSoCdbEMhe067m_MCUw/1591586829/tv49/5edd3f8d1da2f4.61302505/tv-800.m3u8
-#EXTINF:0,Food Network (Eutelsat 9e)
+#EXTINF:0,Food Network (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/xP9u63wkPn0zXUZKQflOkA/1591586841/tv94/5edd3f991a3ff6.94242639/tv-800.m3u8
-#EXTINF:0,Paramout Comedy (Astra 4.8e)
+#EXTINF:0,Paramout Comedy (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int10.divan.tv:8081/secure/x93a7Ivna5d733uk9h4ygw/1591586852/tv108/5edd3fa4829e17.33407349/tv-800.m3u8
-#EXTINF:0,Spike (Astra 4.8e)
+#EXTINF:0,Spike (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/jfhwsOgNytvy2r9-FOUD2Q/1591586861/tv266/5edd3fad919643.04963060/tv-800.m3u8
-#EXTINF:0,Sony Channel (Eutelsat 9e)
+#EXTINF:0,Sony Channel (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int10.divan.tv:8081/secure/dHHherBw2CaiuGjMQEC9Bw/1591586872/tv256/5edd3fb8c7da09.12223527/tv-800.m3u8
-#EXTINF:0,Sony Turbo (Eutelsat 9e)
+#EXTINF:0,Sony Turbo (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/98zTvqEGG5yCodKtvt4WEg/1591586897/tv257/5edd3fd1e05686.72232025/tv-800.m3u8
-#EXTINF:0,Sony SciFi (Eutelsat 9e)
+#EXTINF:0,Sony SciFi (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/mUATaERjTTWmTRRz75KQLA/1591586909/tv255/5edd3fdd5f97c3.31075452/tv-800.m3u8
-#EXTINF:0,Hollywood HD (Eutelsat 9e)
+#EXTINF:0,Hollywood HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/RwNcPXX8iLU6XZaFCGiAtA/1591586929/tv58/5edd3ff17dbdd0.73699524/tv.m3u8
-#EXTINF:0,Рыбалка HD (Astra 4.8e)
+#EXTINF:0,Рыбалка HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/aOfhfV7ef2mEuzglaARLjw/1591586941/tv218/5edd3ffd41f6d8.03313848/tv-800.m3u8
-#EXTINF:0,Cars&Stars TV HD(HotBird 13e)
+#EXTINF:0,Cars&Stars TV HD(HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/ucfRrWGFkzNUuwBehb6pUA/1591586959/tv141/5edd400fa24f63.40112274/tv.m3u8
-#EXTINF:0,Киномикс (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Киномикс (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://zenstream.divan.tv:8081/secure/Q1aQolUsXBcSjXmxnVrR8Q/1591586971/tv160/5edd401b03d4e6.64526029/tv-800.m3u8
-#EXTINF:0,Мужское Кино (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Мужское Кино (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://zenstream.divan.tv:8081/secure/eTe0Je0zgsLIPLW628YnLw/1591586982/tv161/5edd402617b4c8.75706413/tv-800.m3u8
-#EXTINF:0,Кинокомедия (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Кинокомедия (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://zenstream.divan.tv:8081/secure/yKyzsT59eVps_odRzoLoHw/1591586991/tv192/5edd402f947fb4.89203369/tv-800.m3u8
-#EXTINF:0,Киносерия (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Киносерия (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://zenstream.divan.tv:8081/secure/yKyzsT59eVps_odRzoLoHw/1591586991/tv192/5edd402f947fb4.89203369/tv-800.m3u8
-#EXTINF:0,Киноужас (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Киноужас (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://int10.divan.tv:8081/secure/R66KHLnE6YIsgNOG5TyUJQ/1591587021/tv140/5edd404d30abf7.64002303/tv-800.m3u8
-#EXTINF:0,112 HD (Amos 4w)
+#EXTINF:0,112 HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://int04.divan.tv:8081/secure/a9RqZkgSZCyTDATZejbsQA/1591587032/tv270/5edd40584d95d8.71357991/tv-800.m3u8
-#EXTINF:0,Мега (Astra 4.8e)
+#EXTINF:0,Мега (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/ZWCqL5JThF4a8rW53praVQ/1591587048/tv93/5edd40682ffed4.97083728/tv-800.m3u8
 #EXTINF:0,UA:Перший
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/t2t0Jtsct1fcIR_d6uBuFA/1591587067/tv1/5edd407b8bac10.58141374/tv.m3u8
-#EXTINF:0,К1 (Astra 4.8e)
+#EXTINF:0,К1 (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/-iN3yppmMSco20mzq9dRMQ/1591587074/tv100/5edd4082b665e7.29324709/tv-800.m3u8
-#EXTINF:0,К2 (Astra 4.8e)
+#EXTINF:0,К2 (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/YW07xKO8wRFqO7Bn4h6HPA/1591587090/tv102/5edd40924b51c8.52358882/tv-800.m3u8
-#EXTINF:0,Квартал ТВ (Astra 4.8e)
+#EXTINF:0,Квартал ТВ (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int10.divan.tv:8081/secure/K_bicZL3cURRKoKGmUHwIw/1591587103/tv51/5edd409f4a8742.15141970/tv-800.m3u8
-#EXTINF:0,Індіго HD (Astra 4.8e)
+#EXTINF:0,Індіго HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/27ilc4gaG04RP2Z0NJZDuQ/1591587123/tv264/5edd40b31db2b5.15193870/tv-800.m3u8
-#EXTINF:0,NLO TV HD (Astra 4.8e)
+#EXTINF:0,NLO TV HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/Yo-mcKVfxJ-zxhfvjqlR3A/1591587131/tv265/5edd40bb5ebf95.18061749/tv-800.m3u8
-#EXTINF:0,36.6 HD (Astra 4.8e)
+#EXTINF:0,36.6 HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://j2.divan.tv:8081/secure/Zn3HMA_OsdITP5QuTAaY_w/1591587139/tv268/5edd40c3965194.42431557/tv.m3u8
-#EXTINF:0,EKO TV (Astra 4.8e)
+#EXTINF:0,EKO TV (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/qOA0xYFPc97iAgSARDsk7A/1591587155/tv29/5edd40d3042968.23608200/tv.m3u8
-#EXTINF:0,Zoo Парк (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Zoo Парк (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://zenstream.divan.tv:8081/secure/DQxQwZj5p5Gzm_YnFvixJw/1591587165/tv59/5edd40ddbe8858.70929546/tv.m3u8
-#EXTINF:0,///PRIAMIY HD (Astra 4.8e)
+#EXTINF:0,///PRIAMIY HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int10.divan.tv:8081/secure/RYhD7dgNtgo9gdtCYmMTYg/1591587175/tv115/5edd40e7b75fd5.90994650/tv-800.m3u8
 #EXTINF:0,24 Канал HD
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/PQOlCf6lUcUOEkwjCdJ9fA/1591587189/tv62/5edd40f51dcc23.27596215/tv.m3u8
-#EXTINF:0,5 канал (Astra 4.8e)
+#EXTINF:0,5 канал (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://j2.divan.tv:8081/secure/mbe8H60F7od6ZC-ZpvBLKQ/1591587200/tv9/5edd410026ff07.02535367/tv-800.m3u8
-#EXTINF:0,Перший Діловий (Astra 4.8e)
+#EXTINF:0,Перший Діловий (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://j2.divan.tv:8081/secure/C2uli4L2UJNlxdQ0al1Eww/1591587212/tv15/5edd410c18a402.72563717/tv.m3u8
-#EXTINF:0,КРТ (Astra 4.8e)
+#EXTINF:0,КРТ (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/1E89PUc_o9Qr9hwZM38Q2w/1591587219/tv41/5edd4113c1cf85.82044272/tv.m3u8
-#EXTINF:0,ЧП.Инфо (Astra 4.8e)
+#EXTINF:0,ЧП.Инфо (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://j2.divan.tv:8081/secure/AqNRlmVnlGACFdEhXy83Rw/1591587230/tv76/5edd411e8e2963.73403440/tv.m3u8
-#EXTINF:0,ZIK HD (Astra 4.8e)
+#EXTINF:0,ZIK HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/xQtHcJSfghKzrVu2anbMaQ/1591587238/tv83/5edd41264549e7.80076394/tv.m3u8
-#EXTINF:0,Expresso HD (Astra 4.8e)
+#EXTINF:0,Expresso HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/XzfJmMgpOjrshy19s1ekog/1591587254/tv168/5edd4136b071b9.13632756/tv-800.m3u8
-#EXTINF:0,DW TV (HotBird 13e)
+#EXTINF:0,DW TV (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/67fyTGcTTsHFVdYU07cTIA/1591587266/tv54/5edd4142a1fe58.76868529/tv.m3u8
-#EXTINF:0,Belarus 24 (HotBird 13e)
+#EXTINF:0,Belarus 24 (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/CwG9RIvMwh2EXyN_DVvhsw/1591587278/tv24/5edd414e059ea6.51872072/tv.m3u8
-#EXTINF:0,Hromadske TV (Astra 4.8e)
+#EXTINF:0,Hromadske TV (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/aLl8Jz3m2VDugdPftSyH8g/1591587290/tv226/5edd415a8bebc7.08426823/tv-800.m3u8
 #EXTINF:0,Україна 24 (4.8e/9e/13e)
+#EXTGRP:Astra 4.8e
+#EXTGRP:Eutelsat 9e
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/7fDvPfIKGZa02ySwiEIvRg/1591587311/tv254/5edd416fc06248.57801370/tv-800.m3u8
-#EXTINF:0,Уніан (Astra 4.8e)
+#EXTINF:0,Уніан (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/op4jANnN0NyriHTkjap8Wg/1591587321/tv56/5edd41792ceeb2.30219769/tv-800.m3u8
-#EXTINF:0,ПравдаТут (Astra 4.8e)
+#EXTINF:0,ПравдаТут (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/xeFPySx1qyr2UyjA4GjCyA/1591587435/tv157/5edd41ebd85568.13499851/tv.m3u8
-#EXTINF:0,NewsNetwork (Astra 4.8e)
+#EXTINF:0,NewsNetwork (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/u9cfzgvD6-YR1ZkgcpGlpQ/1591588662/tv222/5edd46b6ae54e4.50709555/tv-800.m3u8
-#EXTINF:0,Настоящее время (HotBird 13e)
+#EXTINF:0,Настоящее время (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/Nk10AuCJlQk4fNuIYkzaAQ/1591588653/tv210/5edd46ad3237b3.35537121/tv.m3u8
-#EXTINF:0,SKRYPIN.UA (HotBird 13e)
+#EXTINF:0,SKRYPIN.UA (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://int09.divan.tv:8081/secure/zcuO0M-jqWlJOd3ZimFmVg/1591588643/tv299/5edd46a3a7bb57.55612600/tv.m3u8
-#EXTINF:0,OBOZ TV HD (Astra 4.8e)
+#EXTINF:0,OBOZ TV HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/wp1i_6_6g-IKMJbgO208cQ/1591588634/tv70/5edd469a8a7069.46111642/tv.m3u8
-#EXTINF:0,OstWest (HotBird 13e)
+#EXTINF:0,OstWest (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/30FBIfGzQAJhj_LBPNBtJw/1591588622/tv125/5edd468e458906.33560143/tv.m3u8
-#EXTINF:0,France 24 (HotBird 13e)
+#EXTINF:0,France 24 (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/7p31zNEBrP4gVvgggRGLWw/1591588611/tv216/5edd46830d58b9.81302052/tv.m3u8
-#EXTINF:0,News One HD (Astra 4.8e)
+#EXTINF:0,News One HD (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int04.divan.tv:8081/secure/4t6aPNgcyVOCiMxunT-1sA/1591588598/tv37/5edd46761ab0f2.61430853/tv-800.m3u8
-#EXTINF:0,Zoom (Astra 4.8e)
+#EXTINF:0,Zoom (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/sejZJMHWNC8G1i447lh-xw/1591588587/tv17/5edd466b437533.95504383/tv-800.m3u8
-#EXTINF:0,Fashion TV (Astra 4.8e)
+#EXTINF:0,Fashion TV (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/jkAjra4KZVg0g_sS-oEmSQ/1591588574/tv46/5edd465e63a518.96598530/tv.m3u8
-#EXTINF:0,8 TV RUS (HotBird 13e)
+#EXTINF:0,8 TV RUS (HotBird 13e) 
+#EXTGRP:HotBird 13e
 https://zenstream.divan.tv:8081/secure/DyZWT3X5oAeQRRHDcyu1_g/1591588561/tv72/5edd46513fd105.05838980/tv.m3u8
-#EXTINF:0,HD FASHION (Eutelsat 9e)
+#EXTINF:0,HD FASHION (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/mBKNXd8XmOzkvqUXxGoSCw/1591588551/tv189/5edd46479f4b55.34753072/tv.m3u8
-#EXTINF:0,Сонце (Astra 4.8e)
+#EXTINF:0,Сонце (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/wJS2Q_aFKU5sF31gubdkAA/1591588540/tv196/5edd463c1cc2b1.10963852/tv-800.m3u8
-#EXTINF:0,UA:Fashion(Eutelsat 9e)
+#EXTINF:0,UA:Fashion(Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/XCH-F7vyKtzaTvOCXO7SuA/1591588524/tv232/5edd462c178c13.07987332/tv.m3u8
-#EXTINF:0,OCE TV (Amos 4w)
+#EXTINF:0,OCE TV (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/OY1EvRlAorfryBGqmeMzJQ/1591588508/tv20/5edd461c6ceed9.80196487/tv-800.m3u8
-#EXTINF:0,FilmUA Live (Eutelsat 9e)
+#EXTINF:0,FilmUA Live (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/i5E23OQZfIgAkWgGah0X8Q/1591588498/tv249/5edd4612101400.72501105/tv.m3u8
-#EXTINF:0,ID Fashion HD (Eutelsat 9e)
+#EXTINF:0,ID Fashion HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int10.divan.tv:8081/secure/QXj_2DeIpe_grGadQMVWCQ/1591588484/tv191/5edd4604a9b770.81232168/tv.m3u8
-#EXTINF:0,Star Family (Eutelsat 9e)
+#EXTINF:0,Star Family (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/rg0RKadp7_o-dm9e2GXfrQ/1591588468/tv25/5edd45f49c1ae5.79383317/tv.m3u8
-#EXTINF:0,HTH (Astra 4.8e)
+#EXTINF:0,HTH (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int04.divan.tv:8081/secure/duzLC3k_WyUfFkIyIuxEUw/1591588429/tv91/5edd45cd67f5c5.18596714/tv-800.m3u8
-#EXTINF:0,PIXEL (Astra 4.8e)
+#EXTINF:0,PIXEL (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/CXEEnKISwU49NXJugOfHkQ/1591588412/tv103/5edd45bc5e5b15.59472654/tv-800.m3u8
-#EXTINF:0,NICKELODEON EN (Eutelsat 9e)
+#EXTINF:0,NICKELODEON EN (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int10.divan.tv:8081/secure/p5vUP_iEwYHg_8Dt4zikpQ/1591588392/tv145/5edd45a830ce57.45358890/tv-800.m3u8
-#EXTINF:0,PLUSPLUS (Astra 4.8e)
+#EXTINF:0,PLUSPLUS (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int10.divan.tv:8081/secure/zEaCdtoQUcHBbnuYvYRTMQ/1591588265/tv23/5edd4529b37466.06400612/tv-800.m3u8
-#EXTINF:0,NICKELODEON RU (Eutelsat 9e)
+#EXTINF:0,NICKELODEON RU (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/98Tig4KNe9yCJSyHM4l7zA/1591588247/tv98/5edd4517995597.81254377/tv-800.m3u8
-#EXTINF:0,NICK JR (Eutelsat 9e)
+#EXTINF:0,NICK JR (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/wQkYcu60sLZ2UfoKWdFQbw/1591588236/tv7/5edd450c952239.03746722/tv-800.m3u8
-#EXTINF:0,DA VINCI LEARNING EN (Eutelsat 9e)
+#EXTINF:0,DA VINCI LEARNING EN (Eutelsat 9e) #EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/ZllbR618sC04Tv4F05NkiA/1591588223/tv38/5edd44ff162894.20625888/tv.m3u8
-#EXTINF:0,DA VINCI LEARNING UA (Eutelsat 9e)
+#EXTINF:0,DA VINCI LEARNING UA (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/wWsAw-CjE-b2BQPKU0Kofg/1591588208/tv19/5edd44f00e0564.75730833/tv.m3u8
-#EXTINF:0,NickToons (Eutelsat 9e)
+#EXTINF:0,NickToons (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/lsnHIwwzgv4xVI3KIWGLxg/1591587744/tv75/5edd4320a36667.98056306/tv-800.m3u8
-#EXTINF:0,Duck TV plus (Eutelsat 9e)
+#EXTINF:0,Duck TV plus (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/h-5tKnetGkmO9sdzmZxwRQ/1591587720/tv104/5edd43080b10f6.72515277/tv-800.m3u8
-#EXTINF:0,Lale (Amos 4w)
+#EXTINF:0,Lale (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/JlMrVuOCdQ7bRVsSO3jvIg/1591587703/tv63/5edd42f7472a05.01401054/tv.m3u8
-#EXTINF:0,MALYATKO TV (Amos 4w)
+#EXTINF:0,MALYATKO TV (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/oYaB3OLW7BHyTD2iLavBPw/1591587690/tv47/5edd42eacfd6d0.63824631/tv-800.m3u8
-#EXTINF:0,Duck TV (Eutelsat 9e)
+#EXTINF:0,Duck TV (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://j2.divan.tv:8081/secure/DoN-smIPS3RCGGXxsiTIog/1591587677/tv261/5edd42ddb6f6d7.10347208/tv.m3u8
-#EXTINF:0,NIKI KIDS HD (Eutelsat 9e)
+#EXTINF:0,NIKI KIDS HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int04.divan.tv:8081/secure/v5gLXRk6x1084mh0IlKxBQ/1591587667/tv95/5edd42d3ec51d0.49385264/tv.m3u8
-#EXTINF:0,NIKI JUNIOR HD (Eutelsat 9e)
+#EXTINF:0,NIKI JUNIOR HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/IB88VsSTLaSGgDVjTjLxWg/1591587655/tv84/5edd42c70665b5.14115412/tv.m3u8
 #EXTINF:0,VINTAGE TV
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/v8HdRZH220f5b2miDf9Z1g/1591587642/tv231/5edd42ba6e4950.98453069/tv.m3u8
-#EXTINF:0,DORAMA (Eutelsat 9e)
+#EXTINF:0,DORAMA (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/fx26zdsjc_bMkbUC4YYBKg/1591587509/tv153/5edd4235ac8d63.86349223/tv-265341.ts
-#EXTINF:0,BOLT (Astra 4.8e)
+#EXTINF:0,BOLT (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/Qnj4R0GgiVFzecr56JOiDw/1591587494/tv27/5edd422653a3a9.72386153/tv.m3u8
-#EXTINF:0,Star Cinema HD (Eutelsat 9e)
+#EXTINF:0,Star Cinema HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://j2.divan.tv:8081/secure/nCNDwa3Df0-Vk9TPRfn_cQ/1591587484/tv36/5edd421cf32665.46001361/tv.m3u8
-#EXTINF:0,Enter-Film (Astra 4.8e)
+#EXTINF:0,Enter-Film (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://j2.divan.tv:8081/secure/9SZccjN87jmDZgDUpkbNVg/1591587473/tv99/5edd42112991b9.52825981/tv-800.m3u8
-#EXTINF:0,Наше Любимое Кино (Express AMU1 36E/Express AT1 56E)
+#EXTINF:0,Наше Любимое Кино (Express AMU1 36E/Express AT1 56E) 
+#EXTGRP:Express AMU1 36E/Express AT1 56E
 https://zenstream.divan.tv:8081/secure/fJhiLUMS19QuZWI86TBkrw/1591587462/tv260/5edd42069039e5.98586330/tv.m3u8
-#EXTINF:0,Бигуди (Astra 4.8e)
+#EXTINF:0,Бигуди (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://int09.divan.tv:8081/secure/fBCOF5zX0QQF1ZkjBTuBgQ/1591586775/tv22/5edd3f574e10f5.67601306/tv.m3u8
-#EXTINF:0,Zee TV (Eutelsat 9e)
+#EXTINF:0,Zee TV (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/WsB9ysYdoKSp4mZizWJHMw/1591586757/tv132/5edd3f455cb2e2.34426369/tv.m3u8
-#EXTINF:0,MTV HITS (Eutelsat 9e)
+#EXTINF:0,MTV HITS (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/ItYaxy846cCMhGCNM9TiuQ/1591586748/tv288/5edd3f3c7929c3.89392368/tv.m3u8
-#EXTINF:0,4ever Music HD (Eutelsat 9e)
+#EXTINF:0,4ever Music HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/CCnnrM66gkMKRFNAQHRhPQ/1591586737/tv21/5edd3f3112fd90.48468268/tv-800.m3u8
-#EXTINF:0,club MTV (Eutelsat 9e)
+#EXTINF:0,club MTV (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/o5Uaox6t_BRn4VrU4v-Wsw/1591586714/tv289/5edd3f1a03ea13.31614841/tv.m3u8
-#EXTINF:0,MTV ROCKS (Eutelsat 9e)
+#EXTINF:0,MTV ROCKS (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/ifcJITxHapUgwEDeQCfstg/1591586704/tv286/5edd3f107b2753.25099145/tv.m3u8
-#EXTINF:0,VH1 (Eutelsat 9e)
+#EXTINF:0,VH1 (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/2GR-cH18q3vjjiADpoHFgg/1591586691/tv287/5edd3f034c9209.07795106/tv.m3u8
-#EXTINF:0,VH1 CLASSIC (Eutelsat 9e)
+#EXTINF:0,VH1 CLASSIC (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/2vLKxDIwRp4_iPa5B_wAIA/1591586679/tv290/5edd3ef7d16360.36842345/tv.m3u8
-#EXTINF:0,MusicBox UA HD (Amos 4w)
+#EXTINF:0,MusicBox UA HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/5kFbL1fxjpsr8LZ9GKFoBQ/1591586661/tv194/5edd3ee58640d9.14726034/tv.m3u8
-#EXTINF:0,M1 HD (Amos 4w)
+#EXTINF:0,M1 HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/LCYYDdEl21WuQolAEab7Yg/1591586651/tv8/5edd3edbe68554.40709687/tv-800.m3u8
-#EXTINF:0,M2 HD (Amos 4w)
+#EXTINF:0,M2 HD (Amos 4w) 
+#EXTGRP:Amos 4w
 https://int09.divan.tv:8081/secure/ukpXHpE8wkoRM3HMxKdzRQ/1591586641/tv31/5edd3ed1a62c50.24071782/tv-800.m3u8
-#EXTINF:0,EU Music HD (Eutelsat 9e)
+#EXTINF:0,EU Music HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://int09.divan.tv:8081/secure/Bh7nQmqj1r6EET_6hFJyfg/1591586632/tv152/5edd3ec886b1c6.85497622/tv.m3u8
-#EXTINF:0,O-TV (Amos 4w)
+#EXTINF:0,O-TV (Amos 4w) 
+#EXTGRP:Amos 4w
 https://zenstream.divan.tv:8081/secure/3JHtTLDBapeM0gGMLYuycQ/1591586614/tv16/5edd3eb643bf38.74371856/tv.m3u8
-#EXTINF:0,MostVideo HD (Eutelsat 9e)
+#EXTINF:0,MostVideo HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/FLYIIb-07NRYQBdMDjyDCQ/1591586598/tv200/5edd3ea6a28085.28895008/tv.m3u8
-#EXTINF:0,XSport HD (Eutelsat 9e)
+#EXTINF:0,XSport HD (Eutelsat 9e) 
+#EXTGRP:Eutelsat 9e
 https://zenstream.divan.tv:8081/secure/CJA7wWOL2-0NViDyfKpRgg/1591586587/tv279/5edd3e9ba7da83.22067486/tv.m3u8
-#EXTINF:0,'Apostroph TV (Astra 4.8e)
+#EXTINF:0,'Apostroph TV (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://zenstream.divan.tv:8081/secure/Wtsa6LtPSoNhDpEAH5AALg/1591586574/tv127/5edd3e8e7bebf2.48059149/tv-800.m3u8
-#EXTINF:0,English Club TV (Astra 4.8e)
+#EXTINF:0,English Club TV (Astra 4.8e) 
+#EXTGRP:Astra 4.8e
 https://j2.divan.tv:8081/secure/RBGMsF0wUFn_dbK6lKpI9g/1591586551/tv253/5edd3e77ca0886.43898517/tv-800.m3u8
